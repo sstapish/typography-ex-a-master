@@ -6,10 +6,10 @@
 	background: url("../img/grid-bg.png") repeat-y;
 }
 
-/* h1 {
-	font-family: 'Lustria', serif;
-}
-*/
+ h1 {
+ 	font-family: 'Lustria', serif;
+ }
+
 body {
-	font-family: 'Ledger', serif;
+	font-family: 'Mako', sans-serif;
 }
